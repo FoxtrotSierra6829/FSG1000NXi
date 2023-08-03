@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# build results
+src/workingtitle-instruments-g1000/build/
+src/workingtitle-instruments-g1000/dist/
